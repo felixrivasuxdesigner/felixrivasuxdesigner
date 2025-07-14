@@ -19,7 +19,7 @@ Líder de un equipo de profesionales en Shape Creative Studio Chile, una empresa
 
 - 👨‍💻 **Liderazgo y Diseño:** Como CEO y diseñador, mi foco está en guiar proyectos desde la conceptualización hasta la implementación, asegurando que los principios de diseño centrado en el usuario estén siempre presentes.
 - 🎓 **Gestión de Proyectos:** Actualmente finalizando un **Máster en Project Management** para optimizar los flujos de trabajo y la entrega de proyectos innovadores.
-- 🤖 **Explorando Fronteras:** Interesado activamente en la influencia de la **Inteligencia Artificial y los NFTs** en el futuro del diseño y la experiencia de usuario.
+- 🤖 **Explorando Fronteras:** Interesado activamente en la influencia de la **Inteligencia Artificial** en el futuro del diseño y la experiencia de usuario.
 - 💡 **Pasión por el Frontend:** Poseo conocimientos en tecnologías front-end como **HTML, CSS, JavaScript y React**, lo que me permite construir puentes sólidos entre el diseño y el desarrollo.
 
 ---
@@ -34,7 +34,11 @@ Líder de un equipo de profesionales en Shape Creative Studio Chile, una empresa
 
 **Desarrollo Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Eleventy](https://img.shields.io/badge/Eleventy-000000?style=for-the-badge&logo=eleventy&logoColor=white)
+
+**Backend y Scripting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Herramientas y Flujo de Trabajo**
 
