@@ -2,7 +2,7 @@
 
 ### UX/UI Designer | CEO @ Shape Creative Studio | Project Management
 
-[cite_start]Líder de un equipo de profesionales en **Shape Creative Studio Chile**, una empresa de transformación digital donde diseñamos y desarrollamos soluciones innovadoras[cite: 17, 18]. [cite_start]Con más de 15 años de experiencia en diseño [cite: 19][cite_start], mi pasión es crear experiencias de usuario atractivas y memorables que mejoren la vida de las personas a través de la tecnología y el diseño centrado en el usuario[cite: 21, 23].
+Líder de un equipo de profesionales en Shape Creative Studio Chile, una empresa de transformación digital donde diseñamos y desarrollamos soluciones innovadoras. Con más de 15 años de experiencia en diseño, mi pasión es crear experiencias de usuario atractivas y memorables que mejoren la vida de las personas a través de la tecnología y el diseño centrado en el usuario.
 
 ---
 
@@ -17,10 +17,10 @@
 
 ## 🚀 Mi Filosofía y Enfoque
 
-- [cite_start]👨‍💻 **Liderazgo y Diseño:** Como CEO y diseñador, mi foco está en guiar proyectos desde la conceptualización hasta la implementación, asegurando que los principios de diseño centrado en el usuario estén siempre presentes[cite: 17, 21].
-- [cite_start]🎓 **Gestión de Proyectos:** Actualmente finalizando un **Máster en Project Management** para optimizar los flujos de trabajo y la entrega de proyectos innovadores.
-- [cite_start]🤖 **Explorando Fronteras:** Interesado activamente en la influencia de la **Inteligencia Artificial y los NFTs** en el futuro del diseño y la experiencia de usuario.
-- [cite_start]💡 **Pasión por el Frontend:** Poseo conocimientos en tecnologías front-end como **HTML, CSS, JavaScript y React**, lo que me permite construir puentes sólidos entre el diseño y el desarrollo.
+- 👨‍💻 **Liderazgo y Diseño:** Como CEO y diseñador, mi foco está en guiar proyectos desde la conceptualización hasta la implementación, asegurando que los principios de diseño centrado en el usuario estén siempre presentes.
+- 🎓 **Gestión de Proyectos:** Actualmente finalizando un **Máster en Project Management** para optimizar los flujos de trabajo y la entrega de proyectos innovadores.
+- 🤖 **Explorando Fronteras:** Interesado activamente en la influencia de la **Inteligencia Artificial y los NFTs** en el futuro del diseño y la experiencia de usuario.
+- 💡 **Pasión por el Frontend:** Poseo conocimientos en tecnologías front-end como **HTML, CSS, JavaScript y React**, lo que me permite construir puentes sólidos entre el diseño y el desarrollo.
 
 ---
 
