@@ -8,10 +8,16 @@ Líder de un equipo de profesionales en Shape Creative Studio Chile, una empresa
 
 ## 📊 Mis Estadísticas en GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felixrivasuxdesigner&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f39c12&text_color=ffffff&icon_color=f39c12" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felixrivasuxdesigner&theme=dark&hide_border=true&background=0d1117&stroke=f39c12&ring=f39c12&fire=f39c12&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=f39c12&sideLabels=ffffff" alt="Racha de GitHub" />
-</div>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=felixrivasuxdesigner&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f39c12&text_color=ffffff&icon_color=f39c12" alt="Estadísticas de GitHub"/>
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=felixrivasuxdesigner&theme=dark&hide_border=true&background=0d1117&stroke=f39c12&ring=f39c12&fire=f39c12&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=f39c12&sideLabels=ffffff" alt="Racha de GitHub"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -26,23 +32,115 @@ Líder de un equipo de profesionales en Shape Creative Studio Chile, una empresa
 
 ## 🛠️ Tecnologías y Herramientas
 
-<div align="center">
+### 🎨 **Diseño y Prototipado**
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60"/>
+<br/><sub><b>Figma</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" width="60" height="60"/>
+<br/><sub><b>Sketch</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Horizontal_Red_HEX.svg" width="60" height="60"/>
+<br/><sub><b>Adobe Suite</b></sub>
+</td>
+</tr>
+</table>
 
-**Diseño y Prototipado**
+### 💻 **Desarrollo Frontend**
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+<br/><sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
+<br/><sub><b>CSS3</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
+<br/><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
+<br/><sub><b>React</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="60" height="60"/>
+<br/><sub><b>Svelte</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="60" height="60"/>
+<br/><sub><b>Tailwind CSS</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" height="60"/>
+<br/><sub><b>Sass</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://www.11ty.dev/img/logo-github.svg" width="60" height="60"/>
+<br/><sub><b>Eleventy</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/>
+<br/><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
+<br/><sub><b>Node.js</b></sub>
+</td>
+</tr>
+</table>
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=%23FF61F6) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+### 🐍 **Backend y Scripting**
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
+<br/><sub><b>Python</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="60" height="60"/>
+<br/><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60"/>
+<br/><sub><b>FastAPI</b></sub>
+</td>
+</tr>
+</table>
 
-**Desarrollo Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Eleventy](https://img.shields.io/badge/Eleventy-000000?style=for-the-badge&logo=eleventy&logoColor=white)
-
-**Backend y Scripting**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Herramientas y Flujo de Trabajo**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+### ⚙️ **Herramientas y Flujo de Trabajo**
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
+<br/><sub><b>Git</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>
+<br/><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/>
+<br/><sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="60" height="60"/>
+<br/><sub><b>Notion</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/>
+<br/><sub><b>Docker</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -50,15 +148,58 @@ Líder de un equipo de profesionales en Shape Creative Studio Chile, una empresa
 
 ## 🏆 Proyectos Destacados
 
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felixrivasuxdesigner&repo=journeylaw-front&theme=dark&hide_border=true&bg_color=0d1117&title_color=f39c12&text_color=ffffff&icon_color=f39c12)](https://github.com/felixrivasuxdesigner/journeylaw-front)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felixrivasuxdesigner&repo=pro-invoice&theme=dark&hide_border=true&bg_color=0d1117&title_color=f39c12&text_color=ffffff&icon_color=f39c12)](https://github.com/felixrivasuxdesigner/pro-invoice)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felixrivasuxdesigner&repo=jarvis-mac&theme=dark&hide_border=true&bg_color=0d1117&title_color=f39c12&text_color=ffffff&icon_color=f39c12)](https://github.com/felixrivasuxdesigner/jarvis-mac)
-
+<table>
+<tr>
+<td align="center" width="300">
+<div style="border: 2px solid #f39c12; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #1a1a1a 100%);">
+<h3 style="color: #f39c12; margin: 0 0 10px 0;">🏛️ JourneyLaw</h3>
+<p style="color: #ffffff; margin: 0 0 15px 0; font-size: 14px;">Plataforma legal innovadora con diseño centrado en el usuario para servicios jurídicos digitales.</p>
+<div style="margin-top: 15px;">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/UX/UI-f39c12?style=for-the-badge&logo=figma&logoColor=white" alt="UX/UI"/>
 </div>
+</div>
+</td>
+<td align="center" width="300">
+<div style="border: 2px solid #f39c12; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #1a1a1a 100%);">
+<h3 style="color: #f39c12; margin: 0 0 10px 0;">💼 Pro Invoice</h3>
+<p style="color: #ffffff; margin: 0 0 15px 0; font-size: 14px;">Sistema de facturación profesional con interfaz intuitiva y flujo de trabajo optimizado.</p>
+<div style="margin-top: 15px;">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Design-f39c12?style=for-the-badge&logo=adobe&logoColor=white" alt="Design"/>
+</div>
+</div>
+</td>
+<td align="center" width="300">
+<div style="border: 2px solid #f39c12; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #1a1a1a 100%);">
+<h3 style="color: #f39c12; margin: 0 0 10px 0;">🤖 Jarvis Mac</h3>
+<p style="color: #ffffff; margin: 0 0 15px 0; font-size: 14px;">Asistente inteligente para macOS con interfaz conversacional y automatización avanzada.</p>
+<div style="margin-top: 15px;">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/AI-f39c12?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td align="center" width="300">
+<div style="border: 2px solid #f39c12; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #1a1a1a 100%);">
+<h3 style="color: #f39c12; margin: 0 0 10px 0;">🎨 Shape Creative Studio</h3>
+<p style="color: #ffffff; margin: 0 0 15px 0; font-size: 14px;">Proyecto de transformación digital con enfoque en experiencias de usuario memorables.</p>
+<div style="margin-top: 15px;">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Strategy-f39c12?style=for-the-badge&logo=target&logoColor=white" alt="Strategy"/>
+</div>
+</div>
+</td>
+<td align="center" width="300">
+<!-- Espacio para proyecto futuro -->
+</td>
+<td align="center" width="300">
+<!-- Espacio para proyecto futuro -->
+</td>
+</tr>
+</table>
 
 ---
 
@@ -66,31 +207,68 @@ Líder de un equipo de profesionales en Shape Creative Studio Chile, una empresa
 
 Te invito a explorar mis estudios de caso y proyectos más detallados en mi portafolio profesional.
 
-<div align="center">
-  <a href="https://felixrivasuxdesigner.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Ver_mi_Portafolio-f39c12?style=for-the-badge&logo=rocket&logoColor=white" alt="Link al Portafolio"/>
-  </a>
-</div>
+> 🚀 **[Ver mi Portafolio](https://felixrivasuxdesigner.github.io/portfolio/)** - Descubre casos de estudio detallados y el proceso creativo detrás de cada proyecto.
 
 ---
 
-## 🤝 ¡Conectemos!
+## 🤝 ¡Conectemos y Colaboremos!
 
-<div align="center">
-  
-<a href="https://www.linkedin.com/in/felixrivasproductdesigner/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.behance.net/felixrivasuxdesigner"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
-<a href="https://dribbble.com/rivasdesign"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/></a>
-<a href="mailto:rivafelix@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+Me encanta conectar con otros profesionales, compartir conocimientos y explorar nuevas oportunidades de colaboración. Si estás interesado en:
 
-</div>
+- 💬 **Discutir proyectos de UX/UI** y mejores prácticas de diseño
+- 🚀 **Colaborar en proyectos innovadores** que generen impacto real
+- 🎓 **Intercambiar experiencias** sobre gestión de proyectos y liderazgo de equipos
+- 🤖 **Explorar el futuro del diseño** con inteligencia artificial
+
+**¡No dudes en contactarme a través de cualquiera de estos canales!**
+
+### 📱 Mis Redes Profesionales
+
+<table>
+<tr>
+<td>
+<a href="https://www.linkedin.com/in/felixrivasproductdesigner/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<br/>
+<sub>Conectemos profesionalmente y mantengámonos al día</sub>
+</td>
+<td>
+<a href="https://www.behance.net/felixrivasuxdesigner">
+<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+</a>
+<br/>
+<sub>Explora mi trabajo creativo y casos de estudio</sub>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://dribbble.com/rivasdesign">
+<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
+</a>
+<br/>
+<sub>Descubre mis diseños más recientes e inspiración</sub>
+</td>
+<td>
+<a href="mailto:rivafelix@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<br/>
+<sub>Conversemos directamente sobre oportunidades</sub>
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
-  
-### 💼 Abierto a colaborar en proyectos emocionantes de UX/UI.
+### 💼 Abierto a colaborar en proyectos emocionantes de UX/UI
+
+> *"El diseño no es solo cómo se ve o se siente. El diseño es cómo funciona."* - Steve Jobs
+
+**🎯 Especializado en:**
+- Transformación digital y experiencias centradas en el usuario
+- Liderazgo de equipos de diseño y desarrollo
+- Estrategia de producto y arquitectura de información
+- Consultoría en UX/UI para startups y empresas
 
 ![Vistas del Perfil](https://komarev.com/ghpvc/?username=felixrivasuxdesigner&color=f39c12&style=for-the-badge)
-
-</div>
