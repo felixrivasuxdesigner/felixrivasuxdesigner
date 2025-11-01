@@ -1,8 +1,12 @@
 # ¡Hola! Soy Félix Rivas 👋
 
-### UX/UI Designer | CEO @ Shape Creative Studio | Project Management
+### Senior UX/UI Designer | AI-Driven Experiences | Freelance UX/UI Consultant
 
-Líder de un equipo de profesionales en Shape Creative Studio Chile, una empresa de transformación digital donde diseñamos y desarrollamos soluciones innovadoras. Con más de 15 años de experiencia en diseño, mi pasión es crear experiencias de usuario atractivas y memorables que mejoren la vida de las personas a través de la tecnología y el diseño centrado en el usuario.
+Profesional del diseño con 8 años de experiencia enfocado en la creación de productos digitales. Me especializo en diseño de interfaz (UI) y experiencia de usuario (UX) para aplicaciones móviles y web.
+
+Cuento con sólidos conocimientos en tecnologías front-end (HTML, CSS, JavaScript, React) y un dominio avanzado de herramientas de diseño como Figma y Sketch.
+
+Me apasiona la IA y su influencia en el diseño. Colaboro activamente en investigaciones con usuarios, prototipado y trabajo directo con equipos de desarrollo para crear experiencias de usuario atractivas y funcionales. Mi objetivo es seguir desarrollando proyectos innovadores que mejoren la interacción de las personas con la tecnología.
 
 ---
 
@@ -23,7 +27,7 @@ Líder de un equipo de profesionales en Shape Creative Studio Chile, una empresa
 
 ## 🚀 Mi Filosofía y Enfoque
 
-- 👨‍💻 **Liderazgo y Diseño:** Como CEO y diseñador, mi foco está en guiar proyectos desde la conceptualización hasta la implementación, asegurando que los principios de diseño centrado en el usuario estén siempre presentes.
+- 👨‍💻 **Liderazgo y Diseño:** Como Diseñador, mi foco está en guiar proyectos desde la conceptualización hasta la implementación, asegurando que los principios de diseño centrado en el usuario estén siempre presentes.
 - 🎓 **Gestión de Proyectos:** Actualmente finalizando un **Máster en Project Management** para optimizar los flujos de trabajo y la entrega de proyectos innovadores.
 - 🤖 **Explorando Fronteras:** Interesado activamente en la influencia de la **Inteligencia Artificial** en el futuro del diseño y la experiencia de usuario.
 - 💡 **Pasión por el Frontend:** Poseo conocimientos en tecnologías front-end como **HTML, CSS, JavaScript y React**, lo que me permite construir puentes sólidos entre el diseño y el desarrollo.
@@ -33,6 +37,7 @@ Líder de un equipo de profesionales en Shape Creative Studio Chile, una empresa
 ## 🛠️ Tecnologías y Herramientas
 
 ### 🎨 **Diseño y Prototipado**
+
 <table>
 <tr>
 <td align="center" width="120">
@@ -51,6 +56,7 @@ Líder de un equipo de profesionales en Shape Creative Studio Chile, una empresa
 </table>
 
 ### 💻 **Desarrollo Frontend**
+
 <table>
 <tr>
 <td align="center" width="120">
@@ -99,6 +105,7 @@ Líder de un equipo de profesionales en Shape Creative Studio Chile, una empresa
 </table>
 
 ### 🐍 **Backend y Scripting**
+
 <table>
 <tr>
 <td align="center" width="120">
@@ -117,6 +124,7 @@ Líder de un equipo de profesionales en Shape Creative Studio Chile, una empresa
 </table>
 
 ### ⚙️ **Herramientas y Flujo de Trabajo**
+
 <table>
 <tr>
 <td align="center" width="120">
@@ -211,7 +219,7 @@ Te invito a explorar mis estudios de caso y proyectos más detallados en mi port
 
 ---
 
-## 🤝 ¡Conectemos y Colaboremos!
+## 🤝 ¡Conectemos y Colaboremos
 
 Me encanta conectar con otros profesionales, compartir conocimientos y explorar nuevas oportunidades de colaboración. Si estás interesado en:
 
@@ -266,6 +274,7 @@ Me encanta conectar con otros profesionales, compartir conocimientos y explorar 
 > *"El diseño no es solo cómo se ve o se siente. El diseño es cómo funciona."* - Steve Jobs
 
 **🎯 Especializado en:**
+
 - Transformación digital y experiencias centradas en el usuario
 - Liderazgo de equipos de diseño y desarrollo
 - Estrategia de producto y arquitectura de información
