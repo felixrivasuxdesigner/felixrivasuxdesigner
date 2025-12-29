@@ -202,8 +202,8 @@ Me apasiona la IA y su influencia en el diseño. Colaboro activamente en investi
 </td>
 <td align="center" width="300">
 <div style="border: 2px solid #f39c12; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #1a1a1a 100%);">
-<h3 style="color: #f39c12; margin: 0 0 10px 0;">🎵 Radio DAO Centenario</h3>
-<p style="color: #ffffff; margin: 0 0 15px 0; font-size: 14px;">Plataforma híbrida que combina gobernanza blockchain con participación en redes sociales para democratizar la radio comunitaria.</p>
+<h3 style="color: #f39c12; margin: 0 0 10px 0;">🎵 Radio DAO</h3>
+<p style="color: #ffffff; margin: 0 0 15px 0; font-size: 14px;">Plataforma híbrida que combina gobernanza blockchain descentralizada con participación accesible para democratizar la radio comunitaria.</p>
 <div style="margin-top: 15px;">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
