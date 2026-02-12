@@ -33,3 +33,8 @@ logs/
 # Temporary files
 tmp/
 temp/
+# Agent
+.agent/*
+.claude/*
+.gemini/*
+.opencode/*
