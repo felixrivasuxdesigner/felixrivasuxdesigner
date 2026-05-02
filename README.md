@@ -1,6 +1,6 @@
 # ¡Hola! Soy Félix Rivas 👋
 
-### Senior UX/UI Designer | AI-Driven Experiences | Freelance UX/UI Consultant
+### Product Engineer | Arquitecto IA Full-Stack | UX/UI Estratégico
 
 Profesional del diseño con 8 años de experiencia enfocado en la creación de productos digitales. Me especializo en diseño de interfaz (UI) y experiencia de usuario (UX) para aplicaciones móviles y web.
 
@@ -292,7 +292,7 @@ Me encanta conectar con otros profesionales, compartir conocimientos y explorar 
 
 ### 💼 Abierto a colaborar en proyectos emocionantes de UX/UI
 
-> *"El diseño no es solo cómo se ve o se siente. El diseño es cómo funciona."* - Steve Jobs
+> _"El diseño no es solo cómo se ve o se siente. El diseño es cómo funciona."_ - Steve Jobs
 
 **🎯 Especializado en:**
 
