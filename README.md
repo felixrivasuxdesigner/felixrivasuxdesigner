@@ -178,7 +178,7 @@ I am passionate about AI and its influence on design. I actively collaborate in 
 </td>
 <td align="center" width="300">
 <div style="border: 2px solid #f39c12; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #1a1a1a 100%);">
-<h3 style="color: #f39c12; margin: 0 0 10px 0;">🤖 Jarvis Mac</h3>
+<h3 style="color: #f39c12; margin: 0 0 10px 0;">🔴 HAL 9000</h3>
 <p style="color: #ffffff; margin: 0 0 15px 0; font-size: 14px;">Intelligent macOS assistant featuring a conversational interface and advanced automation.</p>
 <div style="margin-top: 15px;">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
